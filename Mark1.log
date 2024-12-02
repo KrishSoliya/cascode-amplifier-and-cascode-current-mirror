@@ -1,0 +1,19 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\krish\Documents\LTspice\PROJECT\Mark1.asc
+Start Time: Sun Nov 10 15:48:13 2024
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Fatal Error: BSIM3: mosfet m26, model cmosn: Effective channel length <= 0
